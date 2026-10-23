@@ -21,6 +21,8 @@ This project uses Natural Language Processing (NLP) and Machine Learning to auto
 - Joblib
 - Jupyter Notebook
 
+
+
 ## Dataset
 The project uses the Banking77 customer support dataset, containing 77 categories of banking-related customer queries.
 
@@ -38,7 +40,8 @@ The model and TF-IDF vectorizer are saved in the `models/` directory for use in 
 1. Clone or download this repository.
 2. Install the required dependencies.
 3. Open a terminal in the project directory.
-4. Run(in Terminal):
+4.pip install pandas scikit-learn nltk streamlit joblib
+5. Run(in Terminal):
 
 
 python -m streamlit run app.py
