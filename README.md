@@ -47,7 +47,8 @@ The model and TF-IDF vectorizer are saved in the `models/` directory for use in 
 python -m streamlit run app.py
 
 ## Application Preview
-![Smart Customer Support Ticket Classifier](smart_customer_support_ticket_classifier.png).
+![Smart Customer Support Ticket Classifier](Smart%20Customer%20Support%20Ticket%20Classifier.png)
+
 
 ## Future Improvements
 - Improve classification accuracy for confusing ticket categories.
